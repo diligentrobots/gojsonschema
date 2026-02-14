@@ -1,4 +1,4 @@
-module github.com/fetchrobotics/gojsonschema
+module github.com/diligentrobots/gojsonschema
 
 go 1.12
 
